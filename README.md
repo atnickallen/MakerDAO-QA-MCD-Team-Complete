@@ -4,7 +4,7 @@
 *Cataloguing The MakerDAO Quantitative Analytics Team Deliverables*
 
 ## Table of Contents
-- [MCD Risk Tool Back End](https://github.com/atnickallen/MCD_Risk_Tool/edit/master/README.md)
+- [MCD Risk Tool Back End](https://github.com/atnickallen/MCD_Risk_Tool/blob/master/README.md)
 - [MCD Risk Tool Front End](http://mcdrisk.com)
 - [Quantitative Analytics Team Deliverables Presentation](https://github.com/atnickallen/MakerDAO-QA-Team-Finished/blob/master/Maker%20MCD%20-%20QA%20Presentation%20-%20All.pdf)
  
