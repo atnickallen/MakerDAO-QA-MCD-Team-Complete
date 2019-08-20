@@ -20,7 +20,7 @@
 
 # MCD Risk Tool Front End (mcdrisk.com)
 
- <img src="https://user-images.githubusercontent.com/39813026/63233815-454d6780-c200-11e9-912c-bf41ea76aa53.png"></a>
+ <img src="https://user-images.githubusercontent.com/39813026/63376644-48f60100-c35c-11e9-9da7-b7adbe0f5041.png"></a>
 </p>
 
 ## [Link to Frontend Tool](http://MCDrisk.com)
