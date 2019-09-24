@@ -14,7 +14,7 @@
 </p>
 
 
-## [Link To Backend Tool](https://github.com/atnickallen/MCD_Risk_Tool/edit/master/README.md)
+## [Link To Backend Tool](https://github.com/atnickallen/MCD_Risk_Tool/blob/master/README.md)
 
 
 
